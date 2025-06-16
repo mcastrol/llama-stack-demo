@@ -1,1 +1,0 @@
-ollama run llama3.2:3b-instruct-fp16 --keepalive 360m
