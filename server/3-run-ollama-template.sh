@@ -1,0 +1,2 @@
+export INFERENCE_MODEL="llama3.2:3b-instruct-fp16"
+llama stack run /home/mcastrol/.conda/envs/llama-stack-server-demo/lib/python3.10/site-packages/llama_stack/templates/ollama/run.yaml --image-type conda
